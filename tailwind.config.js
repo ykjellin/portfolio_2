@@ -4,8 +4,13 @@ export default {
   theme: {
     extend: {
       fontFamily: {
+        sans: ['Kanit', 'sans-serif'],
       },
       colors: {
+        primary: "#FFD700", 
+        dark: "#121212", 
+        card: "#1E1E1E", 
+        textLight: "#EAEAEA", 
       },
       screens: {
       },
